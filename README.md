@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rijul</h1>
 <h3 align="center">I am a Data Science & Frontend Development Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-wine-rho.vercel.app/](https://portfolio-website-wine-rho.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-website-wine-rho.vercel.app/](https://rijul-portfolio.vercel.app/)
 
 - 💬 Ask me about **anythingg**
 
