@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rijul</h1>
 <h3 align="center">I am a Data Science & Frontend Development Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [Porfolio](https://rijul-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rijul-portfolio.vercel.app/)
 
 - 💬 Ask me about **anythingg**
 
