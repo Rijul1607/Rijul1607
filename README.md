@@ -4,7 +4,7 @@
   <img align="right" src="https://github.com/user-attachments/assets/3c554977-8b1f-4ad5-8239-b9c6481d5a95" width="150">
 </div>
 
-- 👨‍💻 All of my projects are available at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rijul-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliorijul.vercel.app/)
 
 - 💬 Ask me about **anythingg**
 
